@@ -34,15 +34,15 @@
 
 * **Int**
 
-    Números Inteiros
+    Números Inteiros (Ex: 1,2,3,4)
 
 * **Float** 
 
-    Números Reais
+    Números Reais (Ex: 1.2, 0.78, 90.84)
 
 * **String**
 
-    Texto
+    Texto (Ex: "Nome", "Fui lavar a louça")
 
 * **Bool**
 
